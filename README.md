@@ -5,7 +5,7 @@
 
   - Fullstack student 
   - Currently studying at Trybe
-  - Great lover of robotics, technology and code
+  - Great lover of robotics, technology, science, music and code
   - Always learning something new 
   - Next goals: 
       - <img height= "25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -44,7 +44,10 @@
 
 <img style="max-width: 100%" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"> <img style="max-width: 100%" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"> <img style="max-width: 100%" src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
 
+## Others 🧐
 
+<img style="max-width: 100%" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+ 
 ## 📪 Contato
 
 <a href="https://www.linkedin.com/in/thyago-pessoa/" target="_blank"><img style="max-width: 100%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
