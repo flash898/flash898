@@ -54,7 +54,7 @@
 
 ---
 
-[![flash898's GitHub stats](https://github-readme-stats.vercel.app/api?username=flash898&theme=vision-friendly-dark)](https://github.com/flash898/github-readme-stats)
+[![flash898's GitHub stats](https://github-readme-stats.vercel.app/api?username=flash898&theme=gradient)](https://github.com/flash898/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flash898&layout=compact)](https://github.com/flash898/github-readme-stats)
 
