@@ -1,7 +1,7 @@
 # Hi there! I'm Thyago Pessoa 👋
 
 
-<img align="right" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif">
+<img align="right" src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif">
 
   - Fullstack student 
   - Currently studying at Trybe
