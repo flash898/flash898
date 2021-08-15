@@ -7,6 +7,11 @@
   - Currently studying at Trybe
   - Great lover of robotics, technology and code
   - Always learning something new 
+  - Next goals: 
+      - SQL
+      - Python
+      - Nodejs
+      - Mongodb
   
   
 <!--
