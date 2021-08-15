@@ -43,7 +43,7 @@
 ---
 
 [![flash898's GitHub stats](https://github-readme-stats.vercel.app/api?username=flash898&theme=vision-friendly-dark)](https://github.com/flash898/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/flash898/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flash898&repo=github-readme-stats)](https://github.com/flash898/github-readme-stats)
 
 
 
