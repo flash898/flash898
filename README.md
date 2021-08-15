@@ -49,7 +49,7 @@
 <a href="https://www.linkedin.com/in/thyago-pessoa/" target="_blank"><img style="max-width: 100%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/thyagopessoa09/" target="_blank"><img style="max-width: 100%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/flash898" target="_blank"><img style="max-width: 100%" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-
+<a href="mailto: thyago_pessoa@hotmail.com"><img style="max-width: 100%" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 ---
 
 [![flash898's GitHub stats](https://github-readme-stats.vercel.app/api?username=flash898&theme=vision-friendly-dark)](https://github.com/flash898/github-readme-stats)
