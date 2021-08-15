@@ -6,11 +6,11 @@
   - Currently studying at Trybe
   - Great lover of robotics, technology and code
   - Always learning something new 
+  
+  
 <!--
 **flash898/flash898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
 
 --- 
 
