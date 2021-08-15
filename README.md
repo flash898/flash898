@@ -8,7 +8,7 @@
   - Great lover of robotics, technology, science, music and code
   - Always learning something new 
   - Next goals: 
-      - <img height= "25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">, <img height= "25" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">, <img height= "25" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">, <img height= "25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+      - <img height= "25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img height= "25" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img height= "25" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img height= "25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
 
 <!--
 **flash898/flash898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,4 +33,3 @@
 ---
 
 [![flash898's GitHub stats](https://github-readme-stats.vercel.app/api?username=flash898&theme=vision-friendly-dark)](https://github.com/flash898/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flash898&layout=compact)](https://github.com/flash898/github-readme-stats)
-
