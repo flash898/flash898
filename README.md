@@ -1,6 +1,7 @@
 # Hi there! I'm Thyago Pessoa 👋
 
-<img align="right" src="https://github.com/davidtheclark/gifs/blob/master/frustrated-computer-baboob.gif">
+
+<img align="right" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif">
 
   - Fullstack student 
   - Currently studying at Trybe
@@ -10,6 +11,7 @@
   
 <!--
 **flash898/flash898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github.com/davidtheclark/gifs/blob/master/frustrated-computer-baboob.gif">
 -->
 
 --- 
