@@ -8,7 +8,7 @@
 **flash898/flash898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="https://github.com/davidtheclark/gifs/blob/master/frustrated-computer-baboob.gif">
+| <img src="https://github.com/davidtheclark/gifs/blob/master/frustrated-computer-baboob.gif">
 --- 
 ## Languages 💻
 
