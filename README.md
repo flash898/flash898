@@ -44,11 +44,11 @@
 
 <img style="max-width: 100%" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"> <img style="max-width: 100%" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"> <img style="max-width: 100%" src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
 
-## Others 🧐
+## 🧐 Others 
 
 <img style="max-width: 100%" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
  
-## 📪 Contato
+## Contato 📪
 
 <a href="https://www.linkedin.com/in/thyago-pessoa/" target="_blank"><img style="max-width: 100%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/thyagopessoa09/" target="_blank"><img style="max-width: 100%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
