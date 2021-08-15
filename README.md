@@ -48,13 +48,13 @@
 
 ####  Contato
 
-<img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/thyago-pessoa/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <img height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
 ---
 
-[![flash898's GitHub stats](https://github-readme-stats.vercel.app/api?username=flash898&theme=gradient)](https://github.com/flash898/github-readme-stats)
+[![flash898's GitHub stats](https://github-readme-stats.vercel.app/api?username=flash898&theme=vision-friendly-dark)](https://github.com/flash898/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flash898&layout=compact)](https://github.com/flash898/github-readme-stats)
 
