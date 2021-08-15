@@ -1,4 +1,4 @@
-# Hi there! I'm Thyago Pessoa 👋
+# Hi there! I'm Thyago Pessoa ⚡
 
 
 <img align="right" src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif">
