@@ -3,12 +3,11 @@
   - Fullstack student 
   - Currently studying at Trybe
   - Great lover of robotics, technology and code
-  - Always learning something new
+  - Always learning something new <img src="https://github.com/davidtheclark/gifs/blob/master/frustrated-computer-baboob.gif">
+
 <!--
 **flash898/flash898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-<p style="float: right"><img src="https://github.com/davidtheclark/gifs/blob/master/frustrated-computer-baboob.gif"></p>
 
 --- 
 
