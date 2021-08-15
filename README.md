@@ -58,20 +58,3 @@
 [![flash898's GitHub stats](https://github-readme-stats.vercel.app/api?username=flash898&theme=vision-friendly-dark)](https://github.com/flash898/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flash898&layout=compact)](https://github.com/flash898/github-readme-stats)
-
-
-
-
-- uses: flash898/flash898@master
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # path of the generated gif file
-    # If left empty, the gif file will not be generated
-    gif_out_path: dist/github-snake.gif
-
-    # path of the generated svg file
-    # If left empty, the svg file will not be generated
-    svg_out_path: dist/github-snake.svg
