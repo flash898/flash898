@@ -27,4 +27,4 @@
 <a href="mailto: thyago_pessoa@hotmail.com"><img style="max-width: 100%" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 ---
 
-[![flash898's GitHub stats](https://github-readme-stats.vercel.app/api?username=flash898&theme=vision-friendly-dark)](https://github.com/flash898/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flash898&layout=compact)](https://github.com/flash898/github-readme-stats)
+[![flash898's GitHub stats](https://github-readme-stats.vercel.app/api?username=flash898&theme=vision-friendly-dark)](https://github.com/flash898/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flash898&theme=dark&layout=compact)](https://github.com/flash898/github-readme-stats)
