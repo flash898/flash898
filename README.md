@@ -6,7 +6,7 @@
   - Currently studying at Trybe
   - Great lover of robotics, technology, science, music and code
   - Always learning something new 
-  - To see my <a href="https://flash898.github.io/" target="_blank">portfólio</a>
+  - To see my <a href="https://6126fc380a09562e17f95193--youthful-agnesi-ba38ac.netlify.app/" target="_blank">portfólio</a>
   - Next goals: 
       - <img height= "25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img height= "25" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img height= "25" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img height= "25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
 
